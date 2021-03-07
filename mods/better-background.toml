@@ -1,0 +1,13 @@
+name = "Better Background"
+filename = "better-background-0.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/byCbClAo/versions/0.0.1/better-background-0.0.1.jar"
+hash-format = "sha512"
+hash = "e4deff832b697014be3e5442fd80d8ddb03ab614d8630c484c8ec90334adb655cbee15115438003bee716b32de4651fcf1fd0ab8a57de9a7c7ba0349f9ab8406"
+
+[update]
+[update.modrinth]
+mod-id = "byCbClAo"
+version = "Te36HZCE"

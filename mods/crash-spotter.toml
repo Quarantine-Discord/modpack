@@ -1,0 +1,8 @@
+name = "crash-spotter"
+filename = "crash-spotter-0.0.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Geek202/crash-spotter/releases/download/v1.0/crash-spotter-0.0.1.jar"
+hash-format = "sha512"
+hash = "7818646debb9659d6c2cfd85b814e2c1dcb895784dd967b1ebcc8afb57a6df661d013b0a1f83e9faa72893ac43da183ef5b38eceecc16af125530ae12bfd2ab2"

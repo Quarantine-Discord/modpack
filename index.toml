@@ -1,0 +1,225 @@
+hash-format = "sha256"
+
+[[files]]
+file = ".git/HEAD"
+hash = "f6f2b945f6c411b02ba3da9c7ace88dcf71b6af65ba2e0d89aa82900042b5a10"
+
+[[files]]
+file = ".git/config"
+hash = "9b1eee88523a06039a3f56cedcd6cd8894e73bb096a3193ae44b3098c6d39c75"
+
+[[files]]
+file = ".git/description"
+hash = "85ab6c163d43a17ea9cf7788308bca1466f1b0a8d1cc92e26e9bf63da4062aee"
+
+[[files]]
+file = ".git/hooks/applypatch-msg.sample"
+hash = "0223497a0b8b033aa58a3a521b8629869386cf7ab0e2f101963d328aa62193f7"
+
+[[files]]
+file = ".git/hooks/commit-msg.sample"
+hash = "1f74d5e9292979b573ebd59741d46cb93ff391acdd083d340b94370753d92437"
+
+[[files]]
+file = ".git/hooks/fsmonitor-watchman.sample"
+hash = "7f9cacf1f7c8f791abfaa76171b951a55a9a2a11f1390b43cbc83995b4a91b33"
+
+[[files]]
+file = ".git/hooks/post-update.sample"
+hash = "81765af2daef323061dcbc5e61fc16481cb74b3bac9ad8a174b186523586f6c5"
+
+[[files]]
+file = ".git/hooks/pre-applypatch.sample"
+hash = "e15c5b469ea3e0a695bea6f2c82bcf8e62821074939ddd85b77e0007ff165475"
+
+[[files]]
+file = ".git/hooks/pre-commit.sample"
+hash = "d6d114e507a3295ff3a2e214611c2f5c0d13eaf0ed53f595ba02e4cc714fca18"
+
+[[files]]
+file = ".git/hooks/pre-push.sample"
+hash = "4b1119e1e13a212571976f4aee77847cdbd40978546d6273a557e238981a40d1"
+
+[[files]]
+file = ".git/hooks/pre-rebase.sample"
+hash = "4febce867790052338076f4e66cc47efb14879d18097d1d61c8261859eaaa7b3"
+
+[[files]]
+file = ".git/hooks/pre-receive.sample"
+hash = "a4c3d2b9c7bb3fd8d1441c31bd4ee71a595d66b44fcf49ddb310252320169989"
+
+[[files]]
+file = ".git/hooks/prepare-commit-msg.sample"
+hash = "e9ddcaa4189fddd25ed97fc8c789eca7b6ca16390b2392ae3276f0c8e1aa4619"
+
+[[files]]
+file = ".git/hooks/update.sample"
+hash = "751c037320024ec2ee2757f3ffae0b10ad2c946367684e7059d4dc97eac7e431"
+
+[[files]]
+file = ".git/info/exclude"
+hash = "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1"
+
+[[files]]
+file = "mods/antique-atlas.toml"
+hash = "5734c75123b29b303c9fef02d4668bb145a838a3121a3af51bd1ea5265665ba3"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.toml"
+hash = "843e853fe536f83ba830dea7e2aa15837e4751f4238879634d163bcade2cd4eb"
+metafile = true
+
+[[files]]
+file = "mods/better-background.toml"
+hash = "1313cc89aa3608e43824b577f45e017fe382fdd155ae83d2e59ff8506b4da301"
+metafile = true
+
+[[files]]
+file = "mods/blockus.toml"
+hash = "d3dc2c7d71c517728fcaa15a475b35220ab52380e1cf4cb3cecf28404ebb3502"
+metafile = true
+
+[[files]]
+file = "mods/blur-fabric.toml"
+hash = "fbb12ba771ff025ae7503ff59b01e6bc416dc055fe978f75a3db067b13c85fac"
+metafile = true
+
+[[files]]
+file = "mods/campanion.toml"
+hash = "613508970d26d83f0a5d5c39eb231017d43f4d903d5741ca9e7a0232bc55783c"
+metafile = true
+
+[[files]]
+file = "mods/cinderscapes.toml"
+hash = "2cdc36e26d19002f0d95204db7a058685cabd9e8627689ddb8f6dab2663754bc"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.toml"
+hash = "198b707765f67dd2baa93ad0c52f5a55411b8301c34f00764dd3f0a3f4eb6098"
+metafile = true
+
+[[files]]
+file = "mods/consistencyplus.toml"
+hash = "b665f5a817e443ab0da0bdfa0e9c64b041215d2ee1c319e06067564abe008911"
+metafile = true
+
+[[files]]
+file = "mods/crash-spotter.toml"
+hash = "888e2f79ad93000cb6d284215aa4dcdb928d292b6cc10820797038224f79bda3"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.toml"
+hash = "d968b237fe5395af954f1e65ec073c3b84b1f7b71676222efa0917ae781df478"
+metafile = true
+
+[[files]]
+file = "mods/geckolib-fabric.toml"
+hash = "a397d241ff746dfa4863525b4284d55927a6421e544e3ca941e1af3ba84e0411"
+metafile = true
+
+[[files]]
+file = "mods/hatlist.toml"
+hash = "98396e0104a8ddf43633e5760f15e22af26b8416ea9a6077b8afde088620434b"
+metafile = true
+
+[[files]]
+file = "mods/here-be-no-dragons.toml"
+hash = "b521cb1efedc7ce0443e6df6ea00c10beb0000c769f36812840ba83abc7aa520"
+metafile = true
+
+[[files]]
+file = "mods/hydrogen.toml"
+hash = "153cda3c6d61ae9b32117fe5315ee40a0bd561b7292d9a5927773a368b52c254"
+metafile = true
+
+[[files]]
+file = "mods/keepheadnames.toml"
+hash = "addb6b2b1d2d8449f07a1934f383e2c0a61f0f996da4d801153f32db807b3416"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.toml"
+hash = "c2eebda6b83770ef540b156b890f5ba40fd85c71176576480f8d1445ed2f1fa7"
+metafile = true
+
+[[files]]
+file = "mods/lithium.toml"
+hash = "6066fcc10464ca625efe86c05c8414acc2fe6b69c3fabc05b61eb7ddf33090de"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.toml"
+hash = "25448ae81624164fb756a24c5c46e0cacef4601df135a900f0fde7281186dd5f"
+metafile = true
+
+[[files]]
+file = "mods/mouse-wheelie.toml"
+hash = "caab538f8a73b1bb8921421d4baa64b53041eddf9dd8b4093395783e1be9a71f"
+metafile = true
+
+[[files]]
+file = "mods/oh-the-biomes-youll-go-fabric.toml"
+hash = "67a8f1cc231b547466655ab7bcf382d618b4ed4e4dfa8ab647c223c0a1d51986"
+metafile = true
+
+[[files]]
+file = "mods/ok-zoomer.toml"
+hash = "a826b893ccf96de25429d13d470f5509ce6f998c2c6533c9c0567f8f982b01e0"
+metafile = true
+
+[[files]]
+file = "mods/overworld-two.toml"
+hash = "8e32b11de79625206716f736f5cd70d4d3b385dbeb3103f47a671fe9a0e45fac"
+metafile = true
+
+[[files]]
+file = "mods/paradox-slabs.toml"
+hash = "8d9639f4238fb5a76041f4039c6c709718f5a49d70757b0d51be5c018d873011"
+metafile = true
+
+[[files]]
+file = "mods/phosphor.toml"
+hash = "c40362c2c8a294c33867341f8129e968b8f20c89862e5dbf272436c4e2e75d94"
+metafile = true
+
+[[files]]
+file = "mods/pingspam.toml"
+hash = "1922bf900d32296a204a4cefbc579220b2fbe5a5e2f91aaec10068328cbb85aa"
+metafile = true
+
+[[files]]
+file = "mods/rats-mischief.toml"
+hash = "77ca42c507d4b3eea16be047891ee95f27314bbbc81016a3a5e1f985c94ecfe1"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.toml"
+hash = "be16719db2ee9f649d8767e310d66b34e03b2458831c25b9675cbe3db9d79fc5"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.toml"
+hash = "68027a1e55bff56cda351b453bd3a249138fde501b864a54f1c4b7bb8f57078a"
+metafile = true
+
+[[files]]
+file = "mods/sodium.toml"
+hash = "0bdaff4279932189d76fc68cd7b9de01f541e2fa5b6845a234fa85fb558ffa20"
+metafile = true
+
+[[files]]
+file = "mods/terrestria.toml"
+hash = "f09f62674c0f3b61c80bcf21c393962140249b14a39ab2d29f4c2c92cd15c252"
+metafile = true
+
+[[files]]
+file = "mods/traverse.toml"
+hash = "4fc3eeedfe10296fd84863fddf31f8ae420250759799552890dad9ee569c5f43"
+metafile = true
+
+[[files]]
+file = "resourcepacks/TwemojiFont.zip"
+hash = "5ea155f627b4c7322e301711b11161785be635b88ddf07a464f5d632cad4d4d2"

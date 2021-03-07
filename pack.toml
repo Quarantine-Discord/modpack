@@ -1,0 +1,12 @@
+name = "Quarantine Pack"
+author = "Tom_The_Geek"
+version = "1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f18298fed8102fddc903f3d9f3c17d830e5d7528693f7496a3a01f09a2576add"
+
+[versions]
+fabric = "0.11.2"
+minecraft = "1.16.5"

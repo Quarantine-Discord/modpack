@@ -1,0 +1,13 @@
+name = "Consistency+"
+filename = "consistency_plus-0.2.0-beta.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nDHcEOt3/versions/0.2.0/consistency_plus-0.2.0-beta.jar"
+hash-format = "sha512"
+hash = "b997f206f4571983c1b69d5cd276ada2e3c6fa15da10dcee359c2deccf2f9e797138e09f32d55e0be87c2bfa4c1b64d17f4422cd1fcc51d15a0a258d0ffc4c27"
+
+[update]
+[update.modrinth]
+mod-id = "nDHcEOt3"
+version = "Ag36WuJO"

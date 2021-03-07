@@ -1,0 +1,13 @@
+name = "Keep Head Names"
+filename = "KeepHeadNames-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2VmW47Rp/versions/1.1/KeepHeadNames-1.1.jar"
+hash-format = "sha512"
+hash = "1058d0970b2ecf0b9e0a81f7fa44f58e23052a1b3843d4dbc1c5042c1686d12ffbb0384fc8194bb42ac58bc63dfedafdcaa55595e7d9b7a8d9d3c96f0dae2ce6"
+
+[update]
+[update.modrinth]
+mod-id = "2VmW47Rp"
+version = "zQanZP9N"
