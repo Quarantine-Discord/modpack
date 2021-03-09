@@ -150,6 +150,11 @@ hash = "68027a1e55bff56cda351b453bd3a249138fde501b864a54f1c4b7bb8f57078a"
 metafile = true
 
 [[files]]
+file = "mods/smooth-scrolling-everywhere-fabric.toml"
+hash = "a42c67c3e0f2873f53b982bb37daff177d3973f22aaa7063c46512658ed1f94e"
+metafile = true
+
+[[files]]
 file = "mods/sodium.toml"
 hash = "0bdaff4279932189d76fc68cd7b9de01f541e2fa5b6845a234fa85fb558ffa20"
 metafile = true
